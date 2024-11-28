@@ -1,0 +1,992 @@
+[2024-11-20T21:20:54.352Z] [INFO] Starting PDF processing in directory: ./11-20-2024/label-36-2
+[2024-11-20T21:20:54.358Z] [INFO] Found 4 PDF files to process in ./11-20-2024/label-36-2
+[2024-11-20T21:20:54.358Z] [INFO] 
+Processing file: 9205590263745100548487.pdf
+[2024-11-20T21:20:54.359Z] [INFO] Processing PDF: 11-20-2024/label-36-2/9205590263745100548487.pdf
+[2024-11-20T21:20:54.359Z] [INFO] Converting PDF to image: 11-20-2024/label-36-2/9205590263745100548487.pdf
+[2024-11-20T21:20:54.623Z] [INFO] Performing OCR on image: 11-20-2024/label-36-2/9205590263745100548487.png
+[2024-11-20T21:20:55.489Z] [INFO] OCR completed successfully
+[2024-11-20T21:20:55.489Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:20:55.489Z] [ERROR] No order number found in text
+[2024-11-20T21:20:55.490Z] [ERROR] No order number found in PDF: 11-20-2024/label-36-2/9205590263745100548487.pdf
+[2024-11-20T21:20:55.490Z] [INFO] 
+Processing file: 9205590263745100548500.pdf
+[2024-11-20T21:20:55.490Z] [INFO] Processing PDF: 11-20-2024/label-36-2/9205590263745100548500.pdf
+[2024-11-20T21:20:55.490Z] [INFO] Converting PDF to image: 11-20-2024/label-36-2/9205590263745100548500.pdf
+[2024-11-20T21:20:55.742Z] [INFO] Performing OCR on image: 11-20-2024/label-36-2/9205590263745100548500.png
+[2024-11-20T21:20:56.804Z] [INFO] OCR completed successfully
+[2024-11-20T21:20:56.804Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:20:56.805Z] [INFO] Found order number: 000232425
+[2024-11-20T21:20:57.345Z] [INFO] Found unfulfilled order: 125468198
+[2024-11-20T21:20:57.901Z] [INFO] Marked order 125468198 as shipped
+[2024-11-20T21:20:58.482Z] [INFO] Assigned user to order 125468198
+[2024-11-20T21:20:58.482Z] [SUCCESS] Successfully processed order 000232425 with tracking 9205590263745100548500
+[2024-11-20T21:20:58.483Z] [INFO] 
+Processing file: 9205590393872500406809.pdf
+[2024-11-20T21:20:58.483Z] [INFO] Processing PDF: 11-20-2024/label-36-2/9205590393872500406809.pdf
+[2024-11-20T21:20:58.483Z] [INFO] Converting PDF to image: 11-20-2024/label-36-2/9205590393872500406809.pdf
+[2024-11-20T21:20:58.920Z] [INFO] Performing OCR on image: 11-20-2024/label-36-2/9205590393872500406809.png
+[2024-11-20T21:21:00.122Z] [INFO] OCR completed successfully
+[2024-11-20T21:21:00.122Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:21:00.122Z] [INFO] Found order number: 000232483
+[2024-11-20T21:21:00.600Z] [INFO] Found unfulfilled order: 124879676
+[2024-11-20T21:21:01.224Z] [INFO] Marked order 124879676 as shipped
+[2024-11-20T21:21:01.676Z] [INFO] Assigned user to order 124879676
+[2024-11-20T21:21:01.677Z] [SUCCESS] Successfully processed order 000232483 with tracking 9205590393872500406809
+[2024-11-20T21:21:01.677Z] [INFO] 
+Processing file: 9205590393872500406816.pdf
+[2024-11-20T21:21:01.677Z] [INFO] Processing PDF: 11-20-2024/label-36-2/9205590393872500406816.pdf
+[2024-11-20T21:21:01.677Z] [INFO] Converting PDF to image: 11-20-2024/label-36-2/9205590393872500406816.pdf
+[2024-11-20T21:21:01.923Z] [INFO] Performing OCR on image: 11-20-2024/label-36-2/9205590393872500406816.png
+[2024-11-20T21:21:02.690Z] [INFO] OCR completed successfully
+[2024-11-20T21:21:02.691Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:21:02.691Z] [INFO] Found order number: 000232630
+[2024-11-20T21:21:02.906Z] [INFO] Found unfulfilled order: 124999775
+[2024-11-20T21:21:03.297Z] [INFO] Marked order 124999775 as shipped
+[2024-11-20T21:21:03.542Z] [INFO] Assigned user to order 124999775
+[2024-11-20T21:21:03.543Z] [SUCCESS] Successfully processed order 000232630 with tracking 9205590393872500406816
+[2024-11-20T21:21:03.543Z] [SUMMARY] 
+=== Processing Summary ===
+Total Files Processed: 4
+Successful: 3
+Failed: 1
+
+Detailed Results:
+✗ 9205590263745100548487.pdf: Order number not found in PDF
+✓ 9205590263745100548500.pdf: Order processed successfully (Order: 000232425) (Tracking: 9205590263745100548500)
+✓ 9205590393872500406809.pdf: Order processed successfully (Order: 000232483) (Tracking: 9205590393872500406809)
+✓ 9205590393872500406816.pdf: Order processed successfully (Order: 000232630) (Tracking: 9205590393872500406816)
+=======================
+[2024-11-20T21:33:00.982Z] [INFO] Starting PDF processing in directory: ./11-20-2024/label-37-2
+[2024-11-20T21:33:00.985Z] [INFO] Found 5 PDF files to process in ./11-20-2024/label-37-2
+[2024-11-20T21:33:00.985Z] [INFO] 
+Processing file: 9205590263745100548821.pdf
+[2024-11-20T21:33:00.985Z] [INFO] Processing PDF: 11-20-2024/label-37-2/9205590263745100548821.pdf
+[2024-11-20T21:33:00.986Z] [INFO] Converting PDF to image: 11-20-2024/label-37-2/9205590263745100548821.pdf
+[2024-11-20T21:33:01.250Z] [INFO] Performing OCR on image: 11-20-2024/label-37-2/9205590263745100548821.png
+[2024-11-20T21:33:02.054Z] [INFO] OCR completed successfully
+[2024-11-20T21:33:02.055Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:33:02.055Z] [INFO] Found order number: 000232736 (matched pattern: /\b\d{9}\b/)
+[2024-11-20T21:33:02.834Z] [INFO] Found unfulfilled order: 125075376
+[2024-11-20T21:33:03.518Z] [INFO] Marked order 125075376 as shipped
+[2024-11-20T21:33:04.085Z] [INFO] Assigned user to order 125075376
+[2024-11-20T21:33:04.086Z] [SUCCESS] Successfully processed order 000232736 with tracking 9205590263745100548821
+[2024-11-20T21:33:04.086Z] [INFO] 
+Processing file: 9205590263745100548838.pdf
+[2024-11-20T21:33:04.086Z] [INFO] Processing PDF: 11-20-2024/label-37-2/9205590263745100548838.pdf
+[2024-11-20T21:33:04.086Z] [INFO] Converting PDF to image: 11-20-2024/label-37-2/9205590263745100548838.pdf
+[2024-11-20T21:33:04.335Z] [INFO] Performing OCR on image: 11-20-2024/label-37-2/9205590263745100548838.png
+[2024-11-20T21:33:05.108Z] [INFO] OCR completed successfully
+[2024-11-20T21:33:05.109Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:33:05.109Z] [ERROR] No order number found. Text content:
+[2024-11-20T21:33:05.109Z] [ERROR] ---Begin Text Content---
+[2024-11-20T21:33:05.109Z] [ERROR]  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+U.S. POSTAGE PAID
+77131
+eVS
+
+ 
+
+ 
+
+PRIORITY MAIL®
+EJC172942 —2 Ship Date: 11/21/2024
+PMB #180 Weight: 4 Ib 0 oz
+3395 S JONES BLVD 0003
+
+LAS VEGAS NV 89146-6729
+
+ 
+
+C038
+
+ 
+
+ 
+
+ 
+
+  
+
+eee:
+see TIM GOODMAN
+
+3710 N 27TH ST STE B
+LINCOLN NE 68521-4109
+
+USPS TRACKING # EP
+
+9205 5902 6374 5100 5488 38
+
+ 
+
+[2024-11-20T21:33:05.109Z] [ERROR] ---End Text Content---
+[2024-11-20T21:33:05.109Z] [ERROR] Attempted patterns:
+[2024-11-20T21:33:05.109Z] [ERROR] - /\b(EJR\d{6}(?:-\d)?)\b/i
+[2024-11-20T21:33:05.109Z] [ERROR] - /\b(MH\d{6}(?:-\d)?)\b/i
+[2024-11-20T21:33:05.109Z] [ERROR] - /\b\d{9}\b/
+[2024-11-20T21:33:05.109Z] [ERROR] - /\b\d{6}[-]\d{1}\b/
+[2024-11-20T21:33:05.110Z] [ERROR] - /(?:Order\s*#?\s*|Order\s*Number\s*[:"]?\s*)((?:EJR|MH)?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:33:05.110Z] [ERROR] - /#\s*((?:EJR|MH)?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:33:05.110Z] [ERROR] - /(?:^|\s|#)((?:EJR|MH)\d{6}(?:-\d)?)/i
+[2024-11-20T21:33:05.110Z] [ERROR] No order number found in PDF: 11-20-2024/label-37-2/9205590263745100548838.pdf
+[2024-11-20T21:33:05.110Z] [INFO] 
+Processing file: 9205590393872500407042.pdf
+[2024-11-20T21:33:05.110Z] [INFO] Processing PDF: 11-20-2024/label-37-2/9205590393872500407042.pdf
+[2024-11-20T21:33:05.110Z] [INFO] Converting PDF to image: 11-20-2024/label-37-2/9205590393872500407042.pdf
+[2024-11-20T21:33:05.363Z] [INFO] Performing OCR on image: 11-20-2024/label-37-2/9205590393872500407042.png
+[2024-11-20T21:33:06.156Z] [INFO] OCR completed successfully
+[2024-11-20T21:33:06.156Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:33:06.156Z] [INFO] Found order number: EJR546331 (matched pattern: /\b(EJR\d{6}(?:-\d)?)\b/i)
+[2024-11-20T21:33:06.606Z] [INFO] Found unfulfilled order: 124957563
+[2024-11-20T21:33:07.271Z] [INFO] Marked order 124957563 as shipped
+[2024-11-20T21:33:07.464Z] [INFO] Assigned user to order 124957563
+[2024-11-20T21:33:07.464Z] [SUCCESS] Successfully processed order EJR546331 with tracking 9205590393872500407042
+[2024-11-20T21:33:07.464Z] [INFO] 
+Processing file: 9205590393872500407059.pdf
+[2024-11-20T21:33:07.465Z] [INFO] Processing PDF: 11-20-2024/label-37-2/9205590393872500407059.pdf
+[2024-11-20T21:33:07.465Z] [INFO] Converting PDF to image: 11-20-2024/label-37-2/9205590393872500407059.pdf
+[2024-11-20T21:33:07.761Z] [INFO] Performing OCR on image: 11-20-2024/label-37-2/9205590393872500407059.png
+[2024-11-20T21:33:08.473Z] [INFO] OCR completed successfully
+[2024-11-20T21:33:08.473Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:33:08.473Z] [ERROR] No order number found. Text content:
+[2024-11-20T21:33:08.473Z] [ERROR] ---Begin Text Content---
+[2024-11-20T21:33:08.473Z] [ERROR]  
+
+ 
+
+ 
+
+U.S. POSTAGE PAID
+76803
+eVS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIORITY MAIL®
+0002248152 Ship Date: 11/21/2024
+PMB #180 Weight: 2 Ib 0 oz
+3395 S JONES BLVD 0003
+
+LAS VEGAS NV 89146-6729
+
+ 
+
+ 
+
+R009
+
+ 
+
+ 
+
+ee STARLETTE DENNING
+2294 § TAVERNER DR
+RIDGEFIELD WA 98642-7678
+
+USPS TRACKING # EP
+
+ 
+
+EE ee
+pc
+
+[2024-11-20T21:33:08.473Z] [ERROR] ---End Text Content---
+[2024-11-20T21:33:08.473Z] [ERROR] Attempted patterns:
+[2024-11-20T21:33:08.473Z] [ERROR] - /\b(EJR\d{6}(?:-\d)?)\b/i
+[2024-11-20T21:33:08.473Z] [ERROR] - /\b(MH\d{6}(?:-\d)?)\b/i
+[2024-11-20T21:33:08.474Z] [ERROR] - /\b\d{9}\b/
+[2024-11-20T21:33:08.474Z] [ERROR] - /\b\d{6}[-]\d{1}\b/
+[2024-11-20T21:33:08.474Z] [ERROR] - /(?:Order\s*#?\s*|Order\s*Number\s*[:"]?\s*)((?:EJR|MH)?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:33:08.474Z] [ERROR] - /#\s*((?:EJR|MH)?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:33:08.474Z] [ERROR] - /(?:^|\s|#)((?:EJR|MH)\d{6}(?:-\d)?)/i
+[2024-11-20T21:33:08.474Z] [ERROR] No order number found in PDF: 11-20-2024/label-37-2/9205590393872500407059.pdf
+[2024-11-20T21:33:08.474Z] [INFO] 
+Processing file: 9205590393872500407066.pdf
+[2024-11-20T21:33:08.474Z] [INFO] Processing PDF: 11-20-2024/label-37-2/9205590393872500407066.pdf
+[2024-11-20T21:33:08.474Z] [INFO] Converting PDF to image: 11-20-2024/label-37-2/9205590393872500407066.pdf
+[2024-11-20T21:33:08.722Z] [INFO] Performing OCR on image: 11-20-2024/label-37-2/9205590393872500407066.png
+[2024-11-20T21:33:09.493Z] [INFO] OCR completed successfully
+[2024-11-20T21:33:09.494Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:33:09.494Z] [INFO] Found order number: 000232789 (matched pattern: /\b\d{9}\b/)
+[2024-11-20T21:33:09.708Z] [INFO] Found unfulfilled order: 125110044
+[2024-11-20T21:33:10.203Z] [INFO] Marked order 125110044 as shipped
+[2024-11-20T21:33:10.658Z] [INFO] Assigned user to order 125110044
+[2024-11-20T21:33:10.658Z] [SUCCESS] Successfully processed order 000232789 with tracking 9205590393872500407066
+[2024-11-20T21:33:10.658Z] [SUMMARY] 
+=== Processing Summary ===
+Total Files Processed: 5
+Successful: 3
+Failed: 2
+
+Detailed Results:
+✓ 9205590263745100548821.pdf: Order processed successfully (Order: 000232736) (Tracking: 9205590263745100548821)
+✗ 9205590263745100548838.pdf: Order number not found in PDF
+✓ 9205590393872500407042.pdf: Order processed successfully (Order: EJR546331) (Tracking: 9205590393872500407042)
+✗ 9205590393872500407059.pdf: Order number not found in PDF
+✓ 9205590393872500407066.pdf: Order processed successfully (Order: 000232789) (Tracking: 9205590393872500407066)
+=======================
+[2024-11-20T21:39:01.358Z] [INFO] Starting PDF processing in directory: ./11-20-2024/label-37-first-10
+[2024-11-20T21:39:01.363Z] [INFO] Found 10 PDF files to process in ./11-20-2024/label-37-first-10
+[2024-11-20T21:39:01.363Z] [INFO] 
+Processing file: 9205590263745100548562.pdf
+[2024-11-20T21:39:01.364Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548562.pdf
+[2024-11-20T21:39:01.364Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548562.pdf
+[2024-11-20T21:39:01.628Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548562.png
+[2024-11-20T21:39:02.567Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:02.568Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:02.568Z] [INFO] Found order number: 000232657 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:39:03.167Z] [INFO] Found unfulfilled order: 125024739
+[2024-11-20T21:39:03.690Z] [INFO] Marked order 125024739 as shipped
+[2024-11-20T21:39:04.260Z] [INFO] Assigned user to order 125024739
+[2024-11-20T21:39:04.261Z] [SUCCESS] Successfully processed order 000232657 with tracking 9205590263745100548562
+[2024-11-20T21:39:04.261Z] [INFO] 
+Processing file: 9205590263745100548579.pdf
+[2024-11-20T21:39:04.261Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548579.pdf
+[2024-11-20T21:39:04.261Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548579.pdf
+[2024-11-20T21:39:04.507Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548579.png
+[2024-11-20T21:39:05.354Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:05.355Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:05.355Z] [ERROR] No order number found. Text content:
+[2024-11-20T21:39:05.355Z] [ERROR] ---Begin Text Content---
+[2024-11-20T21:39:05.355Z] [ERROR]  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+U.S. POSTAGE PAID
+77131
+eVS
+
+ 
+
+ 
+
+PRIORITY MAIL®
+R3817—-1 Ship Date: 11/20/2024
+PMB #180 Weight: 2 Ib 0 oz
+3395 S JONES BLVD 0003
+
+LAS VEGAS NV 89146-6729
+
+ 
+
+C020
+
+ 
+
+ 
+
+ 
+
+he MAGDALENA TOUSSAINT
+9940 W BERTEAU AVE # 1W
+CHICAGO IL 60634 — 1619
+
+USPS TRACKING # EP
+
+9205 5902 6374 5100 5485 79
+rT
+
+ 
+
+ 
+
+[2024-11-20T21:39:05.355Z] [ERROR] ---End Text Content---
+[2024-11-20T21:39:05.355Z] [ERROR] Attempted patterns:
+[2024-11-20T21:39:05.355Z] [ERROR] - /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i
+[2024-11-20T21:39:05.355Z] [ERROR] - /\b(\d{9}(?:-\d)?)\b/
+[2024-11-20T21:39:05.355Z] [ERROR] - /\b(\d{6}-\d)\b/
+[2024-11-20T21:39:05.355Z] [ERROR] - /(?:^|\s|#)((?:EJR|EJC|MH)\d{6}(?:-\d)?)/i
+[2024-11-20T21:39:05.355Z] [ERROR] - /(?:Order\s*#?\s*|Order\s*Number\s*[:"']?\s*)((?:(?:EJR|EJC|MH))?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:39:05.356Z] [ERROR] - /#\s*((?:(?:EJR|EJC|MH))?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:39:05.356Z] [ERROR] No order number found in PDF: 11-20-2024/label-37-first-10/9205590263745100548579.pdf
+[2024-11-20T21:39:05.356Z] [INFO] 
+Processing file: 9205590263745100548586.pdf
+[2024-11-20T21:39:05.356Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548586.pdf
+[2024-11-20T21:39:05.356Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548586.pdf
+[2024-11-20T21:39:05.600Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548586.png
+[2024-11-20T21:39:06.512Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:06.512Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:06.513Z] [ERROR] No order number found. Text content:
+[2024-11-20T21:39:06.513Z] [ERROR] ---Begin Text Content---
+[2024-11-20T21:39:06.513Z] [ERROR]  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+U.S. POSTAGE PAID
+77131
+eVS
+PRIORITY MAIL®
+AL5862—1 Ship Date: 11/20/2024
+PMB #180 Weight: 2 Ib 0 oz
+3395 S JONES BLVD 0003
+
+LAS VEGAS NV 89146-6729
+
+ 
+
+ 
+
+R005
+
+ 
+
+ 
+
+Sc KIM JACOBS
+1037 TICO RD
+OJAI CA 93023 — 3559
+
+USPS TRACKING # EP
+
+ 
+
+ 
+
+9205 5902 6374 5100 5485 86
+ez
+
+[2024-11-20T21:39:06.513Z] [ERROR] ---End Text Content---
+[2024-11-20T21:39:06.513Z] [ERROR] Attempted patterns:
+[2024-11-20T21:39:06.513Z] [ERROR] - /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i
+[2024-11-20T21:39:06.513Z] [ERROR] - /\b(\d{9}(?:-\d)?)\b/
+[2024-11-20T21:39:06.513Z] [ERROR] - /\b(\d{6}-\d)\b/
+[2024-11-20T21:39:06.513Z] [ERROR] - /(?:^|\s|#)((?:EJR|EJC|MH)\d{6}(?:-\d)?)/i
+[2024-11-20T21:39:06.513Z] [ERROR] - /(?:Order\s*#?\s*|Order\s*Number\s*[:"']?\s*)((?:(?:EJR|EJC|MH))?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:39:06.513Z] [ERROR] - /#\s*((?:(?:EJR|EJC|MH))?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:39:06.513Z] [ERROR] No order number found in PDF: 11-20-2024/label-37-first-10/9205590263745100548586.pdf
+[2024-11-20T21:39:06.513Z] [INFO] 
+Processing file: 9205590263745100548593.pdf
+[2024-11-20T21:39:06.513Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548593.pdf
+[2024-11-20T21:39:06.513Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548593.pdf
+[2024-11-20T21:39:06.767Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548593.png
+[2024-11-20T21:39:07.547Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:07.548Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:07.548Z] [INFO] Found order number: 000232740 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:39:08.011Z] [INFO] Found unfulfilled order: 125075416
+[2024-11-20T21:39:08.548Z] [INFO] Marked order 125075416 as shipped
+[2024-11-20T21:39:08.957Z] [INFO] Assigned user to order 125075416
+[2024-11-20T21:39:08.958Z] [SUCCESS] Successfully processed order 000232740 with tracking 9205590263745100548593
+[2024-11-20T21:39:08.958Z] [INFO] 
+Processing file: 9205590263745100548609.pdf
+[2024-11-20T21:39:08.958Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548609.pdf
+[2024-11-20T21:39:08.958Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548609.pdf
+[2024-11-20T21:39:09.207Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548609.png
+[2024-11-20T21:39:10.024Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:10.024Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:10.024Z] [INFO] Found order number: 000232766 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:39:10.246Z] [INFO] Found unfulfilled order: 125109989
+[2024-11-20T21:39:10.814Z] [INFO] Marked order 125109989 as shipped
+[2024-11-20T21:39:11.218Z] [INFO] Assigned user to order 125109989
+[2024-11-20T21:39:11.218Z] [SUCCESS] Successfully processed order 000232766 with tracking 9205590263745100548609
+[2024-11-20T21:39:11.218Z] [INFO] 
+Processing file: 9205590263745100548616.pdf
+[2024-11-20T21:39:11.218Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548616.pdf
+[2024-11-20T21:39:11.218Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548616.pdf
+[2024-11-20T21:39:11.463Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548616.png
+[2024-11-20T21:39:12.215Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:12.216Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:12.216Z] [INFO] Found order number: 000225324 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:39:12.441Z] [INFO] Found unfulfilled order: 125485860
+[2024-11-20T21:39:12.792Z] [INFO] Marked order 125485860 as shipped
+[2024-11-20T21:39:13.223Z] [INFO] Assigned user to order 125485860
+[2024-11-20T21:39:13.223Z] [SUCCESS] Successfully processed order 000225324 with tracking 9205590263745100548616
+[2024-11-20T21:39:13.223Z] [INFO] 
+Processing file: 9205590263745100548623.pdf
+[2024-11-20T21:39:13.223Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548623.pdf
+[2024-11-20T21:39:13.223Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548623.pdf
+[2024-11-20T21:39:13.472Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548623.png
+[2024-11-20T21:39:14.225Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:14.225Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:14.225Z] [INFO] Found order number: 000232695 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:39:14.451Z] [INFO] Found unfulfilled order: 125146692
+[2024-11-20T21:39:14.816Z] [INFO] Marked order 125146692 as shipped
+[2024-11-20T21:39:15.024Z] [INFO] Assigned user to order 125146692
+[2024-11-20T21:39:15.024Z] [SUCCESS] Successfully processed order 000232695 with tracking 9205590263745100548623
+[2024-11-20T21:39:15.024Z] [INFO] 
+Processing file: 9205590263745100548630.pdf
+[2024-11-20T21:39:15.024Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548630.pdf
+[2024-11-20T21:39:15.024Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548630.pdf
+[2024-11-20T21:39:15.461Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548630.png
+[2024-11-20T21:39:16.518Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:16.518Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:16.518Z] [INFO] Found order number: 000232682 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:39:16.934Z] [INFO] Found unfulfilled order: 125146654
+[2024-11-20T21:39:17.287Z] [INFO] Marked order 125146654 as shipped
+[2024-11-20T21:39:17.731Z] [INFO] Assigned user to order 125146654
+[2024-11-20T21:39:17.731Z] [SUCCESS] Successfully processed order 000232682 with tracking 9205590263745100548630
+[2024-11-20T21:39:17.731Z] [INFO] 
+Processing file: 9205590263745100548647.pdf
+[2024-11-20T21:39:17.731Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548647.pdf
+[2024-11-20T21:39:17.731Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548647.pdf
+[2024-11-20T21:39:18.001Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548647.png
+[2024-11-20T21:39:18.797Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:18.797Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:18.797Z] [INFO] Found order number: 000232570 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:39:19.510Z] [INFO] Found unfulfilled order: 124957596
+[2024-11-20T21:39:20.331Z] [INFO] Marked order 124957596 as shipped
+[2024-11-20T21:39:20.559Z] [INFO] Assigned user to order 124957596
+[2024-11-20T21:39:20.559Z] [SUCCESS] Successfully processed order 000232570 with tracking 9205590263745100548647
+[2024-11-20T21:39:20.559Z] [INFO] 
+Processing file: 9205590263745100548654.pdf
+[2024-11-20T21:39:20.559Z] [INFO] Processing PDF: 11-20-2024/label-37-first-10/9205590263745100548654.pdf
+[2024-11-20T21:39:20.559Z] [INFO] Converting PDF to image: 11-20-2024/label-37-first-10/9205590263745100548654.pdf
+[2024-11-20T21:39:20.815Z] [INFO] Performing OCR on image: 11-20-2024/label-37-first-10/9205590263745100548654.png
+[2024-11-20T21:39:21.585Z] [INFO] OCR completed successfully
+[2024-11-20T21:39:21.585Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:39:21.585Z] [INFO] Found order number: 000232643 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:39:21.818Z] [INFO] Found unfulfilled order: 125109999
+[2024-11-20T21:39:22.160Z] [INFO] Marked order 125109999 as shipped
+[2024-11-20T21:39:22.370Z] [INFO] Assigned user to order 125109999
+[2024-11-20T21:39:22.371Z] [SUCCESS] Successfully processed order 000232643 with tracking 9205590263745100548654
+[2024-11-20T21:39:22.371Z] [SUMMARY] 
+=== Processing Summary ===
+Total Files Processed: 10
+Successful: 8
+Failed: 2
+
+Detailed Results:
+✓ 9205590263745100548562.pdf: Order processed successfully (Order: 000232657) (Tracking: 9205590263745100548562)
+✗ 9205590263745100548579.pdf: Order number not found in PDF
+✗ 9205590263745100548586.pdf: Order number not found in PDF
+✓ 9205590263745100548593.pdf: Order processed successfully (Order: 000232740) (Tracking: 9205590263745100548593)
+✓ 9205590263745100548609.pdf: Order processed successfully (Order: 000232766) (Tracking: 9205590263745100548609)
+✓ 9205590263745100548616.pdf: Order processed successfully (Order: 000225324) (Tracking: 9205590263745100548616)
+✓ 9205590263745100548623.pdf: Order processed successfully (Order: 000232695) (Tracking: 9205590263745100548623)
+✓ 9205590263745100548630.pdf: Order processed successfully (Order: 000232682) (Tracking: 9205590263745100548630)
+✓ 9205590263745100548647.pdf: Order processed successfully (Order: 000232570) (Tracking: 9205590263745100548647)
+✓ 9205590263745100548654.pdf: Order processed successfully (Order: 000232643) (Tracking: 9205590263745100548654)
+=======================
+[2024-11-20T21:45:39.414Z] [INFO] Starting PDF processing in directory: ./11-20-2024/label-37-second-20
+[2024-11-20T21:45:39.417Z] [INFO] Found 20 PDF files to process in ./11-20-2024/label-37-second-20
+[2024-11-20T21:45:39.418Z] [INFO] 
+Processing file: 9205590263745100548661.pdf
+[2024-11-20T21:45:39.419Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548661.pdf
+[2024-11-20T21:45:39.420Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548661.pdf
+[2024-11-20T21:45:39.680Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548661.png
+[2024-11-20T21:45:40.489Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:40.489Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:40.489Z] [INFO] Found order number: MH478057 (matched pattern: /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i)
+[2024-11-20T21:45:41.043Z] [INFO] Found unfulfilled order: 125132577
+[2024-11-20T21:45:41.577Z] [INFO] Marked order 125132577 as shipped
+[2024-11-20T21:45:42.075Z] [INFO] Assigned user to order 125132577
+[2024-11-20T21:45:42.075Z] [SUCCESS] Successfully processed order MH478057 with tracking 9205590263745100548661
+[2024-11-20T21:45:42.075Z] [INFO] 
+Processing file: 9205590263745100548678.pdf
+[2024-11-20T21:45:42.076Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548678.pdf
+[2024-11-20T21:45:42.076Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548678.pdf
+[2024-11-20T21:45:42.323Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548678.png
+[2024-11-20T21:45:43.287Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:43.288Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:43.288Z] [INFO] Found order number: 000232819 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:45:43.736Z] [INFO] Found unfulfilled order: 125132597
+[2024-11-20T21:45:44.306Z] [INFO] Marked order 125132597 as shipped
+[2024-11-20T21:45:44.702Z] [INFO] Assigned user to order 125132597
+[2024-11-20T21:45:44.702Z] [SUCCESS] Successfully processed order 000232819 with tracking 9205590263745100548678
+[2024-11-20T21:45:44.702Z] [INFO] 
+Processing file: 9205590263745100548685.pdf
+[2024-11-20T21:45:44.702Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548685.pdf
+[2024-11-20T21:45:44.702Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548685.pdf
+[2024-11-20T21:45:44.966Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548685.png
+[2024-11-20T21:45:45.811Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:45.811Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:45.812Z] [INFO] Found order number: 000232815 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:45:46.071Z] [INFO] Found unfulfilled order: 125146685
+[2024-11-20T21:45:46.584Z] [INFO] Marked order 125146685 as shipped
+[2024-11-20T21:45:46.871Z] [INFO] Assigned user to order 125146685
+[2024-11-20T21:45:46.871Z] [SUCCESS] Successfully processed order 000232815 with tracking 9205590263745100548685
+[2024-11-20T21:45:46.872Z] [INFO] 
+Processing file: 9205590263745100548692.pdf
+[2024-11-20T21:45:46.872Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548692.pdf
+[2024-11-20T21:45:46.872Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548692.pdf
+[2024-11-20T21:45:47.121Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548692.png
+[2024-11-20T21:45:47.887Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:47.887Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:47.887Z] [INFO] Found order number: 000232847 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:45:48.351Z] [INFO] Found unfulfilled order: 125167714
+[2024-11-20T21:45:48.710Z] [INFO] Marked order 125167714 as shipped
+[2024-11-20T21:45:49.097Z] [INFO] Assigned user to order 125167714
+[2024-11-20T21:45:49.097Z] [SUCCESS] Successfully processed order 000232847 with tracking 9205590263745100548692
+[2024-11-20T21:45:49.097Z] [INFO] 
+Processing file: 9205590263745100548708.pdf
+[2024-11-20T21:45:49.097Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548708.pdf
+[2024-11-20T21:45:49.097Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548708.pdf
+[2024-11-20T21:45:49.377Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548708.png
+[2024-11-20T21:45:50.784Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:50.785Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:50.785Z] [INFO] Found order number: 000232844 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:45:51.031Z] [INFO] Found unfulfilled order: 125167706
+[2024-11-20T21:45:51.565Z] [INFO] Marked order 125167706 as shipped
+[2024-11-20T21:45:52.020Z] [INFO] Assigned user to order 125167706
+[2024-11-20T21:45:52.020Z] [SUCCESS] Successfully processed order 000232844 with tracking 9205590263745100548708
+[2024-11-20T21:45:52.020Z] [INFO] 
+Processing file: 9205590263745100548715.pdf
+[2024-11-20T21:45:52.020Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548715.pdf
+[2024-11-20T21:45:52.020Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548715.pdf
+[2024-11-20T21:45:52.268Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548715.png
+[2024-11-20T21:45:53.055Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:53.055Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:53.055Z] [INFO] Found order number: EJR546386 (matched pattern: /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i)
+[2024-11-20T21:45:53.279Z] [INFO] Found unfulfilled order: 125146705
+[2024-11-20T21:45:53.601Z] [INFO] Marked order 125146705 as shipped
+[2024-11-20T21:45:54.009Z] [INFO] Assigned user to order 125146705
+[2024-11-20T21:45:54.009Z] [SUCCESS] Successfully processed order EJR546386 with tracking 9205590263745100548715
+[2024-11-20T21:45:54.009Z] [INFO] 
+Processing file: 9205590263745100548722.pdf
+[2024-11-20T21:45:54.009Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548722.pdf
+[2024-11-20T21:45:54.010Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548722.pdf
+[2024-11-20T21:45:54.274Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548722.png
+[2024-11-20T21:45:55.289Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:55.290Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:55.290Z] [ERROR] No order number found. Text content:
+[2024-11-20T21:45:55.290Z] [ERROR] ---Begin Text Content---
+[2024-11-20T21:45:55.290Z] [ERROR]  
+
+ 
+
+ 
+
+ 
+
+ 
+
+U.S. POSTAGE PAID
+77131
+eVS
+
+ 
+
+ 
+
+ 
+
+PRIORITY MAIL®
+EL649453EL—1 Ship Date: 11/20/2024
+PMB #180 Weight: 2 Ib 0 oz
+3395 S JONES BLVD 0003
+
+LAS VEGAS NV 89146-6729
+
+ 
+
+R006
+
+ 
+
+ 
+
+ 
+
+ 
+
+SE RONNY SCHUBERT
+4385 STATE ROUTE 136
+GREENSBURG PA 15601-6411
+
+USPS TRACKING # EP
+
+9205 5902 6374 5100 5487 22
+
+ 
+
+[2024-11-20T21:45:55.291Z] [ERROR] ---End Text Content---
+[2024-11-20T21:45:55.291Z] [ERROR] Attempted patterns:
+[2024-11-20T21:45:55.291Z] [ERROR] - /\b((?:R|AL)\d{4}(?:-\d)?)\b/i
+[2024-11-20T21:45:55.291Z] [ERROR] - /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i
+[2024-11-20T21:45:55.291Z] [ERROR] - /\b(\d{9}(?:-\d)?)\b/
+[2024-11-20T21:45:55.291Z] [ERROR] - /\b(\d{6}-\d)\b/
+[2024-11-20T21:45:55.291Z] [ERROR] - /(?:^|\s|#)((?:R|AL)\d{4}(?:-\d)?)/i
+[2024-11-20T21:45:55.291Z] [ERROR] - /(?:^|\s|#)((?:EJR|EJC|MH)\d{6}(?:-\d)?)/i
+[2024-11-20T21:45:55.291Z] [ERROR] - /(?:Order\s*#?\s*|Order\s*Number\s*[:"']?\s*)((?:(?:EJR|EJC|MH))?\d{6,9}(?:-\d)?)/i
+[2024-11-20T21:45:55.291Z] [ERROR] - /(?:Order\s*#?\s*|Order\s*Number\s*[:"']?\s*)((?:(?:R|AL))?\d{4}(?:-\d)?)/i
+[2024-11-20T21:45:55.291Z] [ERROR] - /#\s*((?:(?:EJR|EJC|MH)|(?:R|AL))?\d{4,9}(?:-\d)?)/i
+[2024-11-20T21:45:55.291Z] [ERROR] No order number found in PDF: 11-20-2024/label-37-second-20/9205590263745100548722.pdf
+[2024-11-20T21:45:55.291Z] [INFO] 
+Processing file: 9205590263745100548739.pdf
+[2024-11-20T21:45:55.291Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548739.pdf
+[2024-11-20T21:45:55.291Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548739.pdf
+[2024-11-20T21:45:55.621Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548739.png
+[2024-11-20T21:45:57.062Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:57.062Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:57.062Z] [INFO] Found order number: EJR546374 (matched pattern: /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i)
+[2024-11-20T21:45:57.306Z] [INFO] Found unfulfilled order: 125132573
+[2024-11-20T21:45:57.621Z] [INFO] Marked order 125132573 as shipped
+[2024-11-20T21:45:57.836Z] [INFO] Assigned user to order 125132573
+[2024-11-20T21:45:57.837Z] [SUCCESS] Successfully processed order EJR546374 with tracking 9205590263745100548739
+[2024-11-20T21:45:57.837Z] [INFO] 
+Processing file: 9205590263745100548746.pdf
+[2024-11-20T21:45:57.837Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548746.pdf
+[2024-11-20T21:45:57.837Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548746.pdf
+[2024-11-20T21:45:58.168Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548746.png
+[2024-11-20T21:45:58.994Z] [INFO] OCR completed successfully
+[2024-11-20T21:45:58.995Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:45:58.995Z] [INFO] Found order number: 000233149 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:45:59.410Z] [INFO] Found unfulfilled order: 125389538
+[2024-11-20T21:45:59.929Z] [INFO] Marked order 125389538 as shipped
+[2024-11-20T21:46:00.151Z] [INFO] Assigned user to order 125389538
+[2024-11-20T21:46:00.151Z] [SUCCESS] Successfully processed order 000233149 with tracking 9205590263745100548746
+[2024-11-20T21:46:00.152Z] [INFO] 
+Processing file: 9205590263745100548753.pdf
+[2024-11-20T21:46:00.152Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548753.pdf
+[2024-11-20T21:46:00.152Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548753.pdf
+[2024-11-20T21:46:00.509Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548753.png
+[2024-11-20T21:46:01.266Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:01.266Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:01.266Z] [INFO] Found order number: 000232883 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:01.489Z] [INFO] Found unfulfilled order: 125167713
+[2024-11-20T21:46:12.195Z] [INFO] Marked order 125167713 as shipped
+[2024-11-20T21:46:12.678Z] [INFO] Assigned user to order 125167713
+[2024-11-20T21:46:12.678Z] [SUCCESS] Successfully processed order 000232883 with tracking 9205590263745100548753
+[2024-11-20T21:46:12.678Z] [INFO] 
+Processing file: 9205590263745100548760.pdf
+[2024-11-20T21:46:12.678Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548760.pdf
+[2024-11-20T21:46:12.678Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548760.pdf
+[2024-11-20T21:46:12.929Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548760.png
+[2024-11-20T21:46:13.817Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:13.818Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:13.818Z] [INFO] Found order number: 000232043 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:14.007Z] [INFO] Found unfulfilled order: 124783523
+[2024-11-20T21:46:14.335Z] [INFO] Marked order 124783523 as shipped
+[2024-11-20T21:46:14.546Z] [INFO] Assigned user to order 124783523
+[2024-11-20T21:46:14.547Z] [SUCCESS] Successfully processed order 000232043 with tracking 9205590263745100548760
+[2024-11-20T21:46:14.547Z] [INFO] 
+Processing file: 9205590263745100548777.pdf
+[2024-11-20T21:46:14.547Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548777.pdf
+[2024-11-20T21:46:14.547Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548777.pdf
+[2024-11-20T21:46:14.788Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548777.png
+[2024-11-20T21:46:15.569Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:15.569Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:15.569Z] [INFO] Found order number: 000232721 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:15.777Z] [INFO] Found unfulfilled order: 125075467
+[2024-11-20T21:46:16.300Z] [INFO] Marked order 125075467 as shipped
+[2024-11-20T21:46:16.495Z] [INFO] Assigned user to order 125075467
+[2024-11-20T21:46:16.496Z] [SUCCESS] Successfully processed order 000232721 with tracking 9205590263745100548777
+[2024-11-20T21:46:16.496Z] [INFO] 
+Processing file: 9205590263745100548784.pdf
+[2024-11-20T21:46:16.496Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548784.pdf
+[2024-11-20T21:46:16.496Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548784.pdf
+[2024-11-20T21:46:16.742Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548784.png
+[2024-11-20T21:46:17.482Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:17.482Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:17.483Z] [INFO] Found order number: 000232813 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:17.738Z] [INFO] Found unfulfilled order: 125146670
+[2024-11-20T21:46:18.121Z] [INFO] Marked order 125146670 as shipped
+[2024-11-20T21:46:18.350Z] [INFO] Assigned user to order 125146670
+[2024-11-20T21:46:18.350Z] [SUCCESS] Successfully processed order 000232813 with tracking 9205590263745100548784
+[2024-11-20T21:46:18.351Z] [INFO] 
+Processing file: 9205590263745100548791.pdf
+[2024-11-20T21:46:18.351Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548791.pdf
+[2024-11-20T21:46:18.351Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548791.pdf
+[2024-11-20T21:46:18.598Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548791.png
+[2024-11-20T21:46:19.351Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:19.351Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:19.353Z] [INFO] Found order number: 000233181 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:19.560Z] [INFO] Found unfulfilled order: 125389483
+[2024-11-20T21:46:19.906Z] [INFO] Marked order 125389483 as shipped
+[2024-11-20T21:46:20.104Z] [INFO] Assigned user to order 125389483
+[2024-11-20T21:46:20.104Z] [SUCCESS] Successfully processed order 000233181 with tracking 9205590263745100548791
+[2024-11-20T21:46:20.106Z] [INFO] 
+Processing file: 9205590263745100548807.pdf
+[2024-11-20T21:46:20.106Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590263745100548807.pdf
+[2024-11-20T21:46:20.106Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590263745100548807.pdf
+[2024-11-20T21:46:20.376Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590263745100548807.png
+[2024-11-20T21:46:21.340Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:21.340Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:21.340Z] [INFO] Found order number: 000232795 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:21.550Z] [INFO] Found unfulfilled order: 125146657
+[2024-11-20T21:46:21.873Z] [INFO] Marked order 125146657 as shipped
+[2024-11-20T21:46:22.108Z] [INFO] Assigned user to order 125146657
+[2024-11-20T21:46:22.108Z] [SUCCESS] Successfully processed order 000232795 with tracking 9205590263745100548807
+[2024-11-20T21:46:22.109Z] [INFO] 
+Processing file: 9205590393872500406861.pdf
+[2024-11-20T21:46:22.109Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590393872500406861.pdf
+[2024-11-20T21:46:22.109Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590393872500406861.pdf
+[2024-11-20T21:46:22.394Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590393872500406861.png
+[2024-11-20T21:46:23.191Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:23.191Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:23.191Z] [INFO] Found order number: 000232768 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:23.424Z] [INFO] Found unfulfilled order: 125110012
+[2024-11-20T21:46:23.761Z] [INFO] Marked order 125110012 as shipped
+[2024-11-20T21:46:23.956Z] [INFO] Assigned user to order 125110012
+[2024-11-20T21:46:23.956Z] [SUCCESS] Successfully processed order 000232768 with tracking 9205590393872500406861
+[2024-11-20T21:46:23.956Z] [INFO] 
+Processing file: 9205590393872500406878.pdf
+[2024-11-20T21:46:23.956Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590393872500406878.pdf
+[2024-11-20T21:46:23.956Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590393872500406878.pdf
+[2024-11-20T21:46:24.243Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590393872500406878.png
+[2024-11-20T21:46:25.087Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:25.087Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:25.087Z] [INFO] Found order number: EJR545935 (matched pattern: /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i)
+[2024-11-20T21:46:25.319Z] [INFO] Found unfulfilled order: 125587017
+[2024-11-20T21:46:25.662Z] [INFO] Marked order 125587017 as shipped
+[2024-11-20T21:46:25.855Z] [INFO] Assigned user to order 125587017
+[2024-11-20T21:46:25.855Z] [SUCCESS] Successfully processed order EJR545935 with tracking 9205590393872500406878
+[2024-11-20T21:46:25.855Z] [INFO] 
+Processing file: 9205590393872500406885.pdf
+[2024-11-20T21:46:25.855Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590393872500406885.pdf
+[2024-11-20T21:46:25.855Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590393872500406885.pdf
+[2024-11-20T21:46:26.107Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590393872500406885.png
+[2024-11-20T21:46:27.254Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:27.255Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:27.255Z] [INFO] Found order number: 000232707 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:27.464Z] [INFO] Found unfulfilled order: 125075323
+[2024-11-20T21:46:27.830Z] [INFO] Marked order 125075323 as shipped
+[2024-11-20T21:46:28.023Z] [INFO] Assigned user to order 125075323
+[2024-11-20T21:46:28.023Z] [SUCCESS] Successfully processed order 000232707 with tracking 9205590393872500406885
+[2024-11-20T21:46:28.024Z] [INFO] 
+Processing file: 9205590393872500406892.pdf
+[2024-11-20T21:46:28.024Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590393872500406892.pdf
+[2024-11-20T21:46:28.024Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590393872500406892.pdf
+[2024-11-20T21:46:28.349Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590393872500406892.png
+[2024-11-20T21:46:29.133Z] [INFO] OCR completed successfully
+[2024-11-20T21:46:29.134Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:46:29.134Z] [INFO] Found order number: 000232719 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:46:39.366Z] [INFO] Found unfulfilled order: 125075453
+[2024-11-20T21:46:49.715Z] [INFO] Marked order 125075453 as shipped
+[2024-11-20T21:47:00.260Z] [INFO] Assigned user to order 125075453
+[2024-11-20T21:47:00.261Z] [SUCCESS] Successfully processed order 000232719 with tracking 9205590393872500406892
+[2024-11-20T21:47:00.261Z] [INFO] 
+Processing file: 9205590393872500406908.pdf
+[2024-11-20T21:47:00.261Z] [INFO] Processing PDF: 11-20-2024/label-37-second-20/9205590393872500406908.pdf
+[2024-11-20T21:47:00.261Z] [INFO] Converting PDF to image: 11-20-2024/label-37-second-20/9205590393872500406908.pdf
+[2024-11-20T21:47:00.513Z] [INFO] Performing OCR on image: 11-20-2024/label-37-second-20/9205590393872500406908.png
+[2024-11-20T21:47:01.251Z] [INFO] OCR completed successfully
+[2024-11-20T21:47:01.251Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:47:01.251Z] [INFO] Found order number: 000232785 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:47:11.489Z] [INFO] Found unfulfilled order: 125146637
+[2024-11-20T21:47:12.037Z] [INFO] Marked order 125146637 as shipped
+[2024-11-20T21:47:12.326Z] [INFO] Assigned user to order 125146637
+[2024-11-20T21:47:12.326Z] [SUCCESS] Successfully processed order 000232785 with tracking 9205590393872500406908
+[2024-11-20T21:47:12.326Z] [SUMMARY] 
+=== Processing Summary ===
+Total Files Processed: 20
+Successful: 19
+Failed: 1
+
+Detailed Results:
+✓ 9205590263745100548661.pdf: Order processed successfully (Order: MH478057) (Tracking: 9205590263745100548661)
+✓ 9205590263745100548678.pdf: Order processed successfully (Order: 000232819) (Tracking: 9205590263745100548678)
+✓ 9205590263745100548685.pdf: Order processed successfully (Order: 000232815) (Tracking: 9205590263745100548685)
+✓ 9205590263745100548692.pdf: Order processed successfully (Order: 000232847) (Tracking: 9205590263745100548692)
+✓ 9205590263745100548708.pdf: Order processed successfully (Order: 000232844) (Tracking: 9205590263745100548708)
+✓ 9205590263745100548715.pdf: Order processed successfully (Order: EJR546386) (Tracking: 9205590263745100548715)
+✗ 9205590263745100548722.pdf: Order number not found in PDF
+✓ 9205590263745100548739.pdf: Order processed successfully (Order: EJR546374) (Tracking: 9205590263745100548739)
+✓ 9205590263745100548746.pdf: Order processed successfully (Order: 000233149) (Tracking: 9205590263745100548746)
+✓ 9205590263745100548753.pdf: Order processed successfully (Order: 000232883) (Tracking: 9205590263745100548753)
+✓ 9205590263745100548760.pdf: Order processed successfully (Order: 000232043) (Tracking: 9205590263745100548760)
+✓ 9205590263745100548777.pdf: Order processed successfully (Order: 000232721) (Tracking: 9205590263745100548777)
+✓ 9205590263745100548784.pdf: Order processed successfully (Order: 000232813) (Tracking: 9205590263745100548784)
+✓ 9205590263745100548791.pdf: Order processed successfully (Order: 000233181) (Tracking: 9205590263745100548791)
+✓ 9205590263745100548807.pdf: Order processed successfully (Order: 000232795) (Tracking: 9205590263745100548807)
+✓ 9205590393872500406861.pdf: Order processed successfully (Order: 000232768) (Tracking: 9205590393872500406861)
+✓ 9205590393872500406878.pdf: Order processed successfully (Order: EJR545935) (Tracking: 9205590393872500406878)
+✓ 9205590393872500406885.pdf: Order processed successfully (Order: 000232707) (Tracking: 9205590393872500406885)
+✓ 9205590393872500406892.pdf: Order processed successfully (Order: 000232719) (Tracking: 9205590393872500406892)
+✓ 9205590393872500406908.pdf: Order processed successfully (Order: 000232785) (Tracking: 9205590393872500406908)
+=======================
+[2024-11-20T21:48:54.250Z] [INFO] Starting PDF processing in directory: ./11-20-2024/label-37
+[2024-11-20T21:48:54.255Z] [INFO] Found 12 PDF files to process in ./11-20-2024/label-37
+[2024-11-20T21:48:54.255Z] [INFO] 
+Processing file: 9205590393872500406915.pdf
+[2024-11-20T21:48:54.255Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406915.pdf
+[2024-11-20T21:48:54.256Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406915.pdf
+[2024-11-20T21:48:54.520Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406915.png
+[2024-11-20T21:48:55.366Z] [INFO] OCR completed successfully
+[2024-11-20T21:48:55.367Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:48:55.367Z] [INFO] Found order number: 000231870 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:48:55.950Z] [INFO] Found unfulfilled order: 125503509
+[2024-11-20T21:48:56.308Z] [INFO] Marked order 125503509 as shipped
+[2024-11-20T21:48:56.606Z] [INFO] Assigned user to order 125503509
+[2024-11-20T21:48:56.607Z] [SUCCESS] Successfully processed order 000231870 with tracking 9205590393872500406915
+[2024-11-20T21:48:56.607Z] [INFO] 
+Processing file: 9205590393872500406922.pdf
+[2024-11-20T21:48:56.607Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406922.pdf
+[2024-11-20T21:48:56.607Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406922.pdf
+[2024-11-20T21:48:56.908Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406922.png
+[2024-11-20T21:48:57.666Z] [INFO] OCR completed successfully
+[2024-11-20T21:48:57.666Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:48:57.666Z] [INFO] Found order number: 000232572 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:48:57.873Z] [INFO] Found unfulfilled order: 124957566
+[2024-11-20T21:48:58.195Z] [INFO] Marked order 124957566 as shipped
+[2024-11-20T21:48:58.579Z] [INFO] Assigned user to order 124957566
+[2024-11-20T21:48:58.580Z] [SUCCESS] Successfully processed order 000232572 with tracking 9205590393872500406922
+[2024-11-20T21:48:58.580Z] [INFO] 
+Processing file: 9205590393872500406939.pdf
+[2024-11-20T21:48:58.580Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406939.pdf
+[2024-11-20T21:48:58.580Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406939.pdf
+[2024-11-20T21:48:58.899Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406939.png
+[2024-11-20T21:48:59.640Z] [INFO] OCR completed successfully
+[2024-11-20T21:48:59.640Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:48:59.640Z] [INFO] Found order number: 000232494 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:49:00.104Z] [INFO] Found unfulfilled order: 124879716
+[2024-11-20T21:49:00.464Z] [INFO] Marked order 124879716 as shipped
+[2024-11-20T21:49:00.887Z] [INFO] Assigned user to order 124879716
+[2024-11-20T21:49:00.887Z] [SUCCESS] Successfully processed order 000232494 with tracking 9205590393872500406939
+[2024-11-20T21:49:00.887Z] [INFO] 
+Processing file: 9205590393872500406946.pdf
+[2024-11-20T21:49:00.887Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406946.pdf
+[2024-11-20T21:49:00.887Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406946.pdf
+[2024-11-20T21:49:01.136Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406946.png
+[2024-11-20T21:49:02.184Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:02.184Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:02.184Z] [INFO] Found order number: 000225252-1 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:49:02.655Z] [INFO] Found unfulfilled order: 125503491
+[2024-11-20T21:49:03.218Z] [INFO] Marked order 125503491 as shipped
+[2024-11-20T21:49:03.651Z] [INFO] Assigned user to order 125503491
+[2024-11-20T21:49:03.651Z] [SUCCESS] Successfully processed order 000225252-1 with tracking 9205590393872500406946
+[2024-11-20T21:49:03.651Z] [INFO] 
+Processing file: 9205590393872500406953.pdf
+[2024-11-20T21:49:03.651Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406953.pdf
+[2024-11-20T21:49:03.651Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406953.pdf
+[2024-11-20T21:49:03.898Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406953.png
+[2024-11-20T21:49:04.642Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:04.642Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:04.642Z] [INFO] Found order number: 000232661 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:49:05.058Z] [INFO] Found unfulfilled order: 125109980
+[2024-11-20T21:49:05.367Z] [INFO] Marked order 125109980 as shipped
+[2024-11-20T21:49:05.748Z] [INFO] Assigned user to order 125109980
+[2024-11-20T21:49:05.748Z] [SUCCESS] Successfully processed order 000232661 with tracking 9205590393872500406953
+[2024-11-20T21:49:05.748Z] [INFO] 
+Processing file: 9205590393872500406960.pdf
+[2024-11-20T21:49:05.748Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406960.pdf
+[2024-11-20T21:49:05.748Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406960.pdf
+[2024-11-20T21:49:06.001Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406960.png
+[2024-11-20T21:49:06.856Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:06.856Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:06.857Z] [INFO] Found order number: 000232838 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:49:07.078Z] [INFO] Found unfulfilled order: 125146702
+[2024-11-20T21:49:07.705Z] [INFO] Marked order 125146702 as shipped
+[2024-11-20T21:49:07.965Z] [INFO] Assigned user to order 125146702
+[2024-11-20T21:49:07.965Z] [SUCCESS] Successfully processed order 000232838 with tracking 9205590393872500406960
+[2024-11-20T21:49:07.965Z] [INFO] 
+Processing file: 9205590393872500406977.pdf
+[2024-11-20T21:49:07.965Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406977.pdf
+[2024-11-20T21:49:07.965Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406977.pdf
+[2024-11-20T21:49:08.216Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406977.png
+[2024-11-20T21:49:08.994Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:08.994Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:08.994Z] [INFO] Found order number: MH478058 (matched pattern: /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i)
+[2024-11-20T21:49:09.215Z] [INFO] Found unfulfilled order: 125132612
+[2024-11-20T21:49:09.800Z] [INFO] Marked order 125132612 as shipped
+[2024-11-20T21:49:10.071Z] [INFO] Assigned user to order 125132612
+[2024-11-20T21:49:10.071Z] [SUCCESS] Successfully processed order MH478058 with tracking 9205590393872500406977
+[2024-11-20T21:49:10.071Z] [INFO] 
+Processing file: 9205590393872500406984.pdf
+[2024-11-20T21:49:10.071Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406984.pdf
+[2024-11-20T21:49:10.071Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406984.pdf
+[2024-11-20T21:49:10.322Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406984.png
+[2024-11-20T21:49:11.033Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:11.033Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:11.033Z] [INFO] Found order number: EJR546369 (matched pattern: /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i)
+[2024-11-20T21:49:11.249Z] [INFO] Found unfulfilled order: 125132603
+[2024-11-20T21:49:11.596Z] [INFO] Marked order 125132603 as shipped
+[2024-11-20T21:49:11.789Z] [INFO] Assigned user to order 125132603
+[2024-11-20T21:49:11.789Z] [SUCCESS] Successfully processed order EJR546369 with tracking 9205590393872500406984
+[2024-11-20T21:49:11.789Z] [INFO] 
+Processing file: 9205590393872500406991.pdf
+[2024-11-20T21:49:11.789Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500406991.pdf
+[2024-11-20T21:49:11.789Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500406991.pdf
+[2024-11-20T21:49:12.110Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500406991.png
+[2024-11-20T21:49:12.898Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:12.898Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:12.898Z] [INFO] Found order number: 000232796 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:49:13.112Z] [INFO] Found unfulfilled order: 125146652
+[2024-11-20T21:49:13.712Z] [INFO] Marked order 125146652 as shipped
+[2024-11-20T21:49:14.087Z] [INFO] Assigned user to order 125146652
+[2024-11-20T21:49:14.087Z] [SUCCESS] Successfully processed order 000232796 with tracking 9205590393872500406991
+[2024-11-20T21:49:14.087Z] [INFO] 
+Processing file: 9205590393872500407004.pdf
+[2024-11-20T21:49:14.087Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500407004.pdf
+[2024-11-20T21:49:14.087Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500407004.pdf
+[2024-11-20T21:49:14.359Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500407004.png
+[2024-11-20T21:49:15.558Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:15.558Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:15.558Z] [INFO] Found order number: 000232849 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:49:15.792Z] [INFO] Found unfulfilled order: 125167691
+[2024-11-20T21:49:16.288Z] [INFO] Marked order 125167691 as shipped
+[2024-11-20T21:49:16.520Z] [INFO] Assigned user to order 125167691
+[2024-11-20T21:49:16.520Z] [SUCCESS] Successfully processed order 000232849 with tracking 9205590393872500407004
+[2024-11-20T21:49:16.520Z] [INFO] 
+Processing file: 9205590393872500407011.pdf
+[2024-11-20T21:49:16.520Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500407011.pdf
+[2024-11-20T21:49:16.520Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500407011.pdf
+[2024-11-20T21:49:16.801Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500407011.png
+[2024-11-20T21:49:17.806Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:17.806Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:17.807Z] [INFO] Found order number: 000232887 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:49:18.067Z] [INFO] Found unfulfilled order: 125167699
+[2024-11-20T21:49:28.397Z] [INFO] Marked order 125167699 as shipped
+[2024-11-20T21:49:38.906Z] [INFO] Assigned user to order 125167699
+[2024-11-20T21:49:38.906Z] [SUCCESS] Successfully processed order 000232887 with tracking 9205590393872500407011
+[2024-11-20T21:49:38.906Z] [INFO] 
+Processing file: 9205590393872500407028.pdf
+[2024-11-20T21:49:38.906Z] [INFO] Processing PDF: 11-20-2024/label-37/9205590393872500407028.pdf
+[2024-11-20T21:49:38.906Z] [INFO] Converting PDF to image: 11-20-2024/label-37/9205590393872500407028.pdf
+[2024-11-20T21:49:39.243Z] [INFO] Performing OCR on image: 11-20-2024/label-37/9205590393872500407028.png
+[2024-11-20T21:49:40.755Z] [INFO] OCR completed successfully
+[2024-11-20T21:49:40.755Z] [INFO] Attempting to extract order number from text
+[2024-11-20T21:49:40.755Z] [INFO] Found order number: 000232852 (matched pattern: /\b(\d{9}(?:-\d)?)\b/)
+[2024-11-20T21:49:50.984Z] [INFO] Found unfulfilled order: 125252785
+[2024-11-20T21:50:01.297Z] [INFO] Marked order 125252785 as shipped
+[2024-11-20T21:50:11.657Z] [INFO] Assigned user to order 125252785
+[2024-11-20T21:50:11.657Z] [SUCCESS] Successfully processed order 000232852 with tracking 9205590393872500407028
+[2024-11-20T21:50:11.658Z] [SUMMARY] 
+=== Processing Summary ===
+Total Files Processed: 12
+Successful: 12
+Failed: 0
+
+Detailed Results:
+✓ 9205590393872500406915.pdf: Order processed successfully (Order: 000231870) (Tracking: 9205590393872500406915)
+✓ 9205590393872500406922.pdf: Order processed successfully (Order: 000232572) (Tracking: 9205590393872500406922)
+✓ 9205590393872500406939.pdf: Order processed successfully (Order: 000232494) (Tracking: 9205590393872500406939)
+✓ 9205590393872500406946.pdf: Order processed successfully (Order: 000225252-1) (Tracking: 9205590393872500406946)
+✓ 9205590393872500406953.pdf: Order processed successfully (Order: 000232661) (Tracking: 9205590393872500406953)
+✓ 9205590393872500406960.pdf: Order processed successfully (Order: 000232838) (Tracking: 9205590393872500406960)
+✓ 9205590393872500406977.pdf: Order processed successfully (Order: MH478058) (Tracking: 9205590393872500406977)
+✓ 9205590393872500406984.pdf: Order processed successfully (Order: EJR546369) (Tracking: 9205590393872500406984)
+✓ 9205590393872500406991.pdf: Order processed successfully (Order: 000232796) (Tracking: 9205590393872500406991)
+✓ 9205590393872500407004.pdf: Order processed successfully (Order: 000232849) (Tracking: 9205590393872500407004)
+✓ 9205590393872500407011.pdf: Order processed successfully (Order: 000232887) (Tracking: 9205590393872500407011)
+✓ 9205590393872500407028.pdf: Order processed successfully (Order: 000232852) (Tracking: 9205590393872500407028)
+=======================

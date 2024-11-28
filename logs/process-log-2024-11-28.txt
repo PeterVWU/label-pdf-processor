@@ -1,0 +1,250 @@
+[2024-11-28T00:20:05.970Z] [INFO] Starting PDF processing in directory: labels/11-27-2024/label-77-1/
+[2024-11-28T00:20:05.976Z] [INFO] Found 1 PDF files to process in labels/11-27-2024/label-77-1/
+[2024-11-28T00:20:05.977Z] [INFO] 
+Processing file: 9205590263745100572161.pdf
+[2024-11-28T00:20:05.977Z] [INFO] Processing PDF: labels/11-27-2024/label-77-1/9205590263745100572161.pdf
+[2024-11-28T00:20:05.977Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77-1/9205590263745100572161.pdf
+[2024-11-28T00:20:06.270Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77-1/9205590263745100572161.png
+[2024-11-28T00:20:07.640Z] [INFO] OCR completed successfully
+[2024-11-28T00:20:07.661Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:20:07.663Z] [INFO] Found potential order number but invalid format: 000233554-7-4
+[2024-11-28T00:20:07.663Z] [INFO] Found order number: 000233554-7 (matched pattern: /\b(\d{9}\s*-\s*\d)\b/)
+[2024-11-28T00:20:07.664Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:20:07.664Z] [INFO] Found tracking number in PDF: 9205590263745100572161
+[2024-11-28T00:20:08.494Z] [INFO] Found unfulfilled order: 128164850
+[2024-11-28T00:20:08.843Z] [INFO] Marked order 128164850 as shipped
+[2024-11-28T00:20:09.475Z] [INFO] Assigned user to order 128164850
+[2024-11-28T00:20:09.475Z] [SUCCESS] Successfully processed order 000233554-7 with tracking 9205590263745100572161
+[2024-11-28T00:20:09.476Z] [SUMMARY] 
+=== Processing Summary ===
+Total Files Processed: 1
+Successful: 1
+Failed: 0
+
+Detailed Results:
+✓ 9205590263745100572161.pdf: Order processed successfully (Order: 000233554-7) (Tracking: 9205590263745100572161)
+=======================
+[2024-11-28T00:21:43.611Z] [INFO] Starting PDF processing in directory: labels/11-27-2024/label-77-1/
+[2024-11-28T00:21:43.613Z] [INFO] Found 1 PDF files to process in labels/11-27-2024/label-77-1/
+[2024-11-28T00:21:43.614Z] [INFO] 
+Processing file: 9205590263745100572161.pdf
+[2024-11-28T00:21:43.614Z] [INFO] Processing PDF: labels/11-27-2024/label-77-1/9205590263745100572161.pdf
+[2024-11-28T00:21:43.614Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77-1/9205590263745100572161.pdf
+[2024-11-28T00:21:43.884Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77-1/9205590263745100572161.png
+[2024-11-28T00:21:44.832Z] [INFO] OCR completed successfully
+[2024-11-28T00:21:44.832Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:21:44.833Z] [INFO] Found potential order number but invalid format: 000233554-7-4
+[2024-11-28T00:21:44.834Z] [INFO] Found order number: 000233554-7 (matched pattern: /\b(\d{9}\s*-\s*\d)\b/)
+[2024-11-28T00:21:44.834Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:21:44.834Z] [INFO] Found tracking number in PDF: 9205590263745100572161
+[2024-11-28T00:21:44.836Z] [ERROR] Error processing directory: Cannot read properties of undefined (reading 'success')
+[2024-11-28T00:22:38.699Z] [INFO] Starting PDF processing in directory: labels/11-27-2024/label-77-1/
+[2024-11-28T00:22:38.705Z] [INFO] Found 1 PDF files to process in labels/11-27-2024/label-77-1/
+[2024-11-28T00:22:38.705Z] [INFO] 
+Processing file: 9205590263745100572161.pdf
+[2024-11-28T00:22:38.705Z] [INFO] Processing PDF: labels/11-27-2024/label-77-1/9205590263745100572161.pdf
+[2024-11-28T00:22:38.705Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77-1/9205590263745100572161.pdf
+[2024-11-28T00:22:38.988Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77-1/9205590263745100572161.png
+[2024-11-28T00:22:39.939Z] [INFO] OCR completed successfully
+[2024-11-28T00:22:39.939Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:22:39.940Z] [INFO] Found potential order number but invalid format: 000233554-7-4
+[2024-11-28T00:22:39.941Z] [INFO] Found order number: 000233554-7 (matched pattern: /\b(\d{9}\s*-\s*\d)\b/)
+[2024-11-28T00:22:39.941Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:22:39.941Z] [INFO] Found tracking number in PDF: 9205590263745100572161
+[2024-11-28T00:22:39.941Z] [ERROR] Error processing directory: Cannot read properties of undefined (reading 'success')
+[2024-11-28T00:25:51.066Z] [INFO] Starting PDF processing in directory: labels/11-27-2024/label-77-1/
+[2024-11-28T00:25:51.070Z] [INFO] Found 1 PDF files to process in labels/11-27-2024/label-77-1/
+[2024-11-28T00:25:51.071Z] [INFO] 
+Processing file: 9205590263745100572161.pdf
+[2024-11-28T00:25:51.072Z] [INFO] Processing PDF: labels/11-27-2024/label-77-1/9205590263745100572161.pdf
+[2024-11-28T00:25:51.072Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77-1/9205590263745100572161.pdf
+[2024-11-28T00:25:51.342Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77-1/9205590263745100572161.png
+[2024-11-28T00:25:52.221Z] [INFO] OCR completed successfully
+[2024-11-28T00:25:52.222Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:25:52.223Z] [INFO] Found order number: 000233554-7-4 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:25:52.223Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:25:52.223Z] [INFO] Found tracking number in PDF: 9205590263745100572161
+[2024-11-28T00:25:52.223Z] [ERROR] Error processing directory: Cannot read properties of undefined (reading 'success')
+[2024-11-28T00:25:59.879Z] [INFO] Starting PDF processing in directory: labels/11-27-2024/label-77
+[2024-11-28T00:25:59.883Z] [INFO] Found 18 PDF files to process in labels/11-27-2024/label-77
+[2024-11-28T00:25:59.884Z] [INFO] 
+Processing file: 9205590263745100572116.pdf
+[2024-11-28T00:25:59.884Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572116.pdf
+[2024-11-28T00:25:59.884Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572116.pdf
+[2024-11-28T00:26:00.145Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572116.png
+[2024-11-28T00:26:00.798Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:00.798Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:00.799Z] [INFO] Found order number: 000236730-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:00.799Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:00.800Z] [INFO] Found tracking number in PDF: 9205590263745100572116
+[2024-11-28T00:26:00.800Z] [INFO] 
+Processing file: 9205590263745100572130.pdf
+[2024-11-28T00:26:00.800Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572130.pdf
+[2024-11-28T00:26:00.800Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572130.pdf
+[2024-11-28T00:26:01.056Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572130.png
+[2024-11-28T00:26:01.983Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:01.984Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:01.984Z] [INFO] Found order number: 000236867-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:01.984Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:01.984Z] [INFO] Found tracking number in PDF: 9205590263745100572130
+[2024-11-28T00:26:01.990Z] [INFO] 
+Processing file: 9205590263745100572147.pdf
+[2024-11-28T00:26:01.991Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572147.pdf
+[2024-11-28T00:26:01.991Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572147.pdf
+[2024-11-28T00:26:02.248Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572147.png
+[2024-11-28T00:26:03.049Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:03.050Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:03.050Z] [INFO] Found order number: 000236931-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:03.050Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:03.050Z] [INFO] Found tracking number in PDF: 9205590263745100572147
+[2024-11-28T00:26:03.050Z] [INFO] 
+Processing file: 9205590263745100572154.pdf
+[2024-11-28T00:26:03.050Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572154.pdf
+[2024-11-28T00:26:03.050Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572154.pdf
+[2024-11-28T00:26:03.313Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572154.png
+[2024-11-28T00:26:04.623Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:04.623Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:04.623Z] [INFO] Found order number: 000234228-3 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:04.623Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:04.624Z] [INFO] Found tracking number in PDF: 9205590263745100572154
+[2024-11-28T00:26:04.624Z] [INFO] 
+Processing file: 9205590263745100572161.pdf
+[2024-11-28T00:26:04.624Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572161.pdf
+[2024-11-28T00:26:04.624Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572161.pdf
+[2024-11-28T00:26:04.967Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572161.png
+[2024-11-28T00:26:06.678Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:06.678Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:06.679Z] [INFO] Found order number: 000233554-7-4 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:06.679Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:06.679Z] [INFO] Found tracking number in PDF: 9205590263745100572161
+[2024-11-28T00:26:06.679Z] [INFO] 
+Processing file: 9205590263745100572178.pdf
+[2024-11-28T00:26:06.679Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572178.pdf
+[2024-11-28T00:26:06.679Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572178.pdf
+[2024-11-28T00:26:07.012Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572178.png
+[2024-11-28T00:26:08.195Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:08.195Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:08.195Z] [INFO] Found order number: 000233554-7-4 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:08.195Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:08.195Z] [INFO] Found tracking number in PDF: 9205590263745100572178
+[2024-11-28T00:26:08.195Z] [INFO] 
+Processing file: 9205590263745100572185.pdf
+[2024-11-28T00:26:08.195Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572185.pdf
+[2024-11-28T00:26:08.196Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572185.pdf
+[2024-11-28T00:26:08.451Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572185.png
+[2024-11-28T00:26:09.621Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:09.621Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:09.622Z] [INFO] Found order number: 000235428-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:09.622Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:09.622Z] [INFO] Found tracking number in PDF: 9205590263745100572185
+[2024-11-28T00:26:09.622Z] [INFO] 
+Processing file: 9205590263745100572192.pdf
+[2024-11-28T00:26:09.622Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572192.pdf
+[2024-11-28T00:26:09.622Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572192.pdf
+[2024-11-28T00:26:09.890Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572192.png
+[2024-11-28T00:26:10.822Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:10.822Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:10.823Z] [INFO] Found order number: 000236361-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:10.823Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:10.823Z] [INFO] Found tracking number in PDF: 9205590263745100572192
+[2024-11-28T00:26:10.823Z] [INFO] 
+Processing file: 9205590263745100572208.pdf
+[2024-11-28T00:26:10.823Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572208.pdf
+[2024-11-28T00:26:10.823Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572208.pdf
+[2024-11-28T00:26:11.067Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572208.png
+[2024-11-28T00:26:11.865Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:11.865Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:11.866Z] [INFO] Found order number: 000235391-3 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:11.866Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:11.866Z] [INFO] Found tracking number in PDF: 9205590263745100572208
+[2024-11-28T00:26:11.866Z] [INFO] 
+Processing file: 9205590263745100572215.pdf
+[2024-11-28T00:26:11.866Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590263745100572215.pdf
+[2024-11-28T00:26:11.866Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590263745100572215.pdf
+[2024-11-28T00:26:12.110Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590263745100572215.png
+[2024-11-28T00:26:12.795Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:12.795Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:12.795Z] [INFO] Found order number: 000235572-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:12.795Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:12.795Z] [INFO] Found tracking number in PDF: 9205590263745100572215
+[2024-11-28T00:26:12.795Z] [INFO] 
+Processing file: 9205590393872500430521.pdf
+[2024-11-28T00:26:12.795Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590393872500430521.pdf
+[2024-11-28T00:26:12.795Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590393872500430521.pdf
+[2024-11-28T00:26:13.040Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590393872500430521.png
+[2024-11-28T00:26:13.723Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:13.723Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:13.724Z] [INFO] Found order number: 000236730-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:13.724Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:13.724Z] [INFO] Found tracking number in PDF: 9205590393872500430521
+[2024-11-28T00:26:13.724Z] [INFO] 
+Processing file: 9205590393872500430538.pdf
+[2024-11-28T00:26:13.724Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590393872500430538.pdf
+[2024-11-28T00:26:13.724Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590393872500430538.pdf
+[2024-11-28T00:26:13.970Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590393872500430538.png
+[2024-11-28T00:26:14.633Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:14.634Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:14.634Z] [INFO] Found order number: 000237000-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:14.634Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:14.634Z] [INFO] Found tracking number in PDF: 9205590393872500430538
+[2024-11-28T00:26:14.634Z] [INFO] 
+Processing file: 9205590393872500430545.pdf
+[2024-11-28T00:26:14.634Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590393872500430545.pdf
+[2024-11-28T00:26:14.634Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590393872500430545.pdf
+[2024-11-28T00:26:14.883Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590393872500430545.png
+[2024-11-28T00:26:15.749Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:15.749Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:15.749Z] [INFO] Found order number: 000236353-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:15.749Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:15.749Z] [INFO] Found tracking number in PDF: 9205590393872500430545
+[2024-11-28T00:26:15.749Z] [INFO] 
+Processing file: 9205590393872500430552.pdf
+[2024-11-28T00:26:15.749Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590393872500430552.pdf
+[2024-11-28T00:26:15.749Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590393872500430552.pdf
+[2024-11-28T00:26:16.007Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590393872500430552.png
+[2024-11-28T00:26:16.630Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:16.630Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:16.630Z] [INFO] Found order number: 000236495-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:16.630Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:16.630Z] [INFO] Found tracking number in PDF: 9205590393872500430552
+[2024-11-28T00:26:16.630Z] [INFO] 
+Processing file: 9205590393872500430569.pdf
+[2024-11-28T00:26:16.630Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590393872500430569.pdf
+[2024-11-28T00:26:16.631Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590393872500430569.pdf
+[2024-11-28T00:26:16.880Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590393872500430569.png
+[2024-11-28T00:26:17.517Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:17.517Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:17.519Z] [INFO] Found order number: EJR546813-1 (matched pattern: /\b((?:EJR|EJC|MH)\d{6}(?:-\d)?)\b/i)
+[2024-11-28T00:26:17.519Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:17.519Z] [INFO] Found tracking number in PDF: 9205590393872500430569
+[2024-11-28T00:26:17.519Z] [INFO] 
+Processing file: 9205590393872500430576.pdf
+[2024-11-28T00:26:17.519Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590393872500430576.pdf
+[2024-11-28T00:26:17.519Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590393872500430576.pdf
+[2024-11-28T00:26:17.770Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590393872500430576.png
+[2024-11-28T00:26:18.379Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:18.379Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:18.379Z] [INFO] Found order number: 000236484-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:18.379Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:18.379Z] [INFO] Found tracking number in PDF: 9205590393872500430576
+[2024-11-28T00:26:18.379Z] [INFO] 
+Processing file: 9205590393872500430583.pdf
+[2024-11-28T00:26:18.379Z] [INFO] Processing PDF: labels/11-27-2024/label-77/9205590393872500430583.pdf
+[2024-11-28T00:26:18.379Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/9205590393872500430583.pdf
+[2024-11-28T00:26:18.632Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/9205590393872500430583.png
+[2024-11-28T00:26:19.257Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:19.258Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:19.258Z] [INFO] Found order number: 000236484-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:19.258Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:19.258Z] [INFO] Found tracking number in PDF: 9205590393872500430583
+[2024-11-28T00:26:19.258Z] [INFO] 
+Processing file: Batch 76_XYZ_FINAL_Tristan Pate.pdf
+[2024-11-28T00:26:19.258Z] [INFO] Processing PDF: labels/11-27-2024/label-77/Batch 76_XYZ_FINAL_Tristan Pate.pdf
+[2024-11-28T00:26:19.258Z] [INFO] Converting PDF to image: labels/11-27-2024/label-77/Batch 76_XYZ_FINAL_Tristan Pate.pdf
+[2024-11-28T00:26:19.492Z] [INFO] Performing OCR on image: labels/11-27-2024/label-77/Batch 76_XYZ_FINAL_Tristan Pate.png
+[2024-11-28T00:26:20.157Z] [INFO] OCR completed successfully
+[2024-11-28T00:26:20.157Z] [INFO] Attempting to extract order number from text
+[2024-11-28T00:26:20.157Z] [INFO] Found order number: 000235493-1 (matched pattern: /\b(\d{9}(?:\s*[—–-]\s*\d)+)\b/)
+[2024-11-28T00:26:20.157Z] [INFO] Attempting to extract tracking number
+[2024-11-28T00:26:20.157Z] [INFO] Found tracking number in PDF: 9205590263745100572222
+[2024-11-28T00:26:20.157Z] [ERROR] Error processing directory: Cannot read properties of undefined (reading 'success')
